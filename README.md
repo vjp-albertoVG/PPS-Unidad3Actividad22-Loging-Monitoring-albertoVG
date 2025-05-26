@@ -1,6 +1,6 @@
 # PPS-Unidad3Actividad22-Loging-Monitoring-albertoVG
 
- Registro y monitorización de eventos de seguridad. ELK 
+Registro y monitorización de eventos de seguridad. ELK 
 
 
 Tema: Registro y monitoreo de eventos de seguridad
